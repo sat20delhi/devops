@@ -1,2 +1,4 @@
 hello,
-this is first github session.:wq
+this is first github session.
+
+we have done some changes.
